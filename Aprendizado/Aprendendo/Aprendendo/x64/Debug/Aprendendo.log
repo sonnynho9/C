@@ -1,0 +1,4 @@
+﻿  Aprendendo.cpp
+c:\users\ed_ba\documents\github\c-and-c-\aprendizado\aprendendo\aprendendo\aprendendo.cpp(11): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\ed_ba\documents\github\c-and-c-\aprendizado\aprendendo\aprendendo\aprendendo.cpp(16): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  Aprendendo.vcxproj -> C:\Users\ed_ba\Documents\GitHub\C-and-C-\Aprendizado\Aprendendo\x64\Debug\Aprendendo.exe
