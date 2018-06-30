@@ -1,2 +1,4 @@
 ﻿  Aprendendo.cpp
-  Aprendendo.vcxproj -> C:\Users\ed_ba\Documents\GitHub\C-and-C-\Aprendizado\Aprendendo\x64\Debug\Aprendendo.exe
+c:\users\ed_ba\documents\github\c-and-c-\aprendizado\aprendendo\aprendendo\aprendendo.cpp(4): error C2065: 'HINSTANCE': identificador não declarado
+c:\users\ed_ba\documents\github\c-and-c-\aprendizado\aprendendo\aprendendo\aprendendo.cpp(4): error C2146: erro de sintaxe: ')' ausente antes do identificador 'hInstance'
+c:\users\ed_ba\documents\github\c-and-c-\aprendizado\aprendendo\aprendendo\aprendendo.cpp(7): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
